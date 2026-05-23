@@ -12,3 +12,6 @@ C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\Debug\SistemaInventario_Equ
 C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\Debug\SistemaInventario_EquipoA.csproj.CoreCompileInputs.cache
 C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\Debug\SistemaInventario_EquipoA.exe
 C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\Debug\SistemaInventario_EquipoA.pdb
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\bin\Debug\System.Data.OleDb.dll
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\bin\Debug\System.Data.OleDb.xml
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\Debug\SistemaI.00E46725.Up2Date

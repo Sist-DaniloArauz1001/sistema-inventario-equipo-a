@@ -1,0 +1,17 @@
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\bin\x64\Debug\SistemaInventario_EquipoA.exe.config
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\bin\x64\Debug\SistemaInventario_EquipoA.exe
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\bin\x64\Debug\SistemaInventario_EquipoA.pdb
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\bin\x64\Debug\System.Data.OleDb.dll
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\bin\x64\Debug\System.Data.OleDb.xml
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\SistemaInventario_EquipoA.csproj.AssemblyReference.cache
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\MainWindow.baml
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\MainWindow.g.cs
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\App.g.cs
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\SistemaInventario_EquipoA_MarkupCompile.cache
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\SistemaInventario_EquipoA.g.resources
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\SistemaInventario_EquipoA.Properties.Resources.resources
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\SistemaInventario_EquipoA.csproj.GenerateResource.cache
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\SistemaInventario_EquipoA.csproj.CoreCompileInputs.cache
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\SistemaI.00E46725.Up2Date
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\SistemaInventario_EquipoA.exe
+C:\Users\arauz\Desktop\SistemaInventario_EquipoA\obj\x64\Debug\SistemaInventario_EquipoA.pdb
